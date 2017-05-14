@@ -1,5 +1,4 @@
-# MIC
-# MultimediaInCommunication
+# MultimediaInCommunication ( MIC )
 Goal: Throw away Browsers, Contents Only.
 
 This project is to develop a platform that let user break the wall between human, machine, and network. Let user reach/read their target information directly in their daily messaging app. 
